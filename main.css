@@ -1,3 +1,40 @@
 body {
     font-family: 'Yeseva One', cursive;
 }
+
+.row-aside{
+    padding-left: 30px;
+    
+}
+
+.row-paragraph{
+    border-left: 1px solid rgb(146, 146, 146);
+}
+.row-articals{
+    
+    padding-left: 30px;
+
+    
+
+}
+.far fa-dot-circle{
+    position: relative;
+    right: 20px;
+}
+.col-12{
+    padding-left: 30px;
+}
+.row-butto-around{
+    border: 1px solid rgb(146, 146, 146);
+    text-align: center
+}
+.border-class{
+    height: 30px;
+    border-right: 1px solid rgb(146, 146, 146);
+ }
+ h3{
+     font-size: 22px;
+ }
+ h4{
+     font-size: 20px
+ }
