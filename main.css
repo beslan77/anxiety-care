@@ -88,13 +88,18 @@ a:hover {
     padding-left: 30px;
 }
 .row-butto-around{
-    border: 1px solid rgb(146, 146, 146);
-    text-align: center
+    border: 2px solid rgb(219, 217, 217);
+    text-align: center;
+    padding: 15px;
+    margin-top: 70px;
+
 }
 .border-class{
-    height: 30px;
-    border-right: 1px solid ,rgb(146, 146 146);
+    height: 60px;
+    border-right: 2px solid rgb(219, 217, 217);
  }
+ 
+ 
  h3{
      font-size: 26px;
  }
