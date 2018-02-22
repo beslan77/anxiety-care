@@ -3,11 +3,27 @@ body {
     font-family: 'Muli', sans-serif;
 }
 
+.head-content {
+    margin-left: 50px;
+
+}
+
 
 h1 {
     margin-top: 100px;
-    margin-left: 50px;
+    padding-bottom: 15px;
     text-align: justify;
+}
+
+span {
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 20px;
+
+}
+
+span.detail {
+    padding-left: 25px;
 }
 
 img {
@@ -15,11 +31,13 @@ img {
 }
 
 .navbar {
-    background-color #FCFCFE ;
+    background-color: #FCFCFE ;
 }
+
 a { 
     color: #aaa;
     text-transform: uppercase;
+    
 }
 a.navbar-brand {
     color: #000000;
