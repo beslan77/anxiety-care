@@ -3,21 +3,49 @@ body {
     font-family: 'Muli', sans-serif;
 }
 
+.head-content {
+    margin-left: 50px;
+
+}
+
+
+h1 {
+    margin-top: 100px;
+    padding-bottom: 15px;
+    text-align: justify;
+}
+
+span {
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 20px;
+
+}
+
+span.detail {
+    padding-left: 25px;
+}
+
 img {
     width: 100%;
+ 
 }
 
 .navbar {
-    background-color: #FEFEFE;
+    background-color: #FCFCFE ;
 }
+
 a { 
     color: #aaa;
     text-transform: uppercase;
+    
 }
 a.navbar-brand {
     color: #000000;
     font-style: bold;
-    font-size: 25px;
+    font-size: 30px;
+    text-transform: capitalize;
+    
 }
 
 a:hover {
@@ -74,6 +102,7 @@ a:hover {
  
  
  h3{
+<<<<<<< HEAD
      font-size: 26px;
  }
  h4{
@@ -82,9 +111,18 @@ a:hover {
      padding-bottom: 20px;
      
      
+=======
+     font-size: 25px;
+     letter-spacing: 1.5px;
+     padding-bottom: 20px;
+ }
+ h4{
+     font-size: 20px;
+     color:rgb(146, 146, 146);
+>>>>>>> 1de91fa41ae11be2b12457c65c17e753180cdafa
  }
 
- h5{
+ h5  {
      padding-bottom:10px; 
      color:rgb(146, 146, 146);
  }
@@ -93,6 +131,16 @@ a:hover {
  }
  p{
     color:rgb(146, 146, 146);
+    
 
      font-size: 20px
+ }
+ .first-info {
+    margin-bottom: 100px;
+
+ }
+ .main-content {
+      width: 800px;
+      margin-top: 100px; 
+      margin-bottom: 100px;
  }
