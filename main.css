@@ -2,6 +2,26 @@ body {
     font-family: 'Yeseva One', cursive;
 }
 
+img {
+    width: 100%;
+}
+
+.navbar {
+    background-color: #FEFEFE;
+}
+a { 
+    color: #aaa;
+    text-transform: uppercase;
+}
+a.navbar-brand {
+    color: #000000;
+    font-style: bold;
+    font-size: 25px;
+}
+
+a:hover {
+    color: ;
+}
 .row-aside{
     padding-left: 30px;
     
@@ -51,4 +71,5 @@ body {
  p{
     color:rgb(146, 146, 146);
 
+     font-size: 20px
  }
