@@ -1,5 +1,6 @@
 body {
     font-family: 'Yeseva One', cursive;
+    font-family: 'Muli', sans-serif;
 }
 
 
@@ -42,14 +43,29 @@ a:hover {
 .row-articals{
     
     padding-left: 30px;
-
-    
-
+    padding-bottom: 20px;
 }
-.far fa-dot-circle{
+
+.bord{
+     border: 1px solid black;
+    border-radius: 50%;
     position: relative;
-    right: 20px;
+    right: 43px;
+    bottom:-30px; 
+    font-size: 15px;
+    display: inline-block;
+    height: 33px;
+    width: 26px;
+    padding: 5px;
 }
+
+.fa-dot-circle{
+    position: relative;
+    right: 41px;
+    bottom:-30px; 
+    font-size: 22px;
+}
+
 .col-12{
     padding-left: 30px;
 }
@@ -62,11 +78,13 @@ a:hover {
     border-right: 1px solid ,rgb(146, 146 146);
  }
  h3{
-     font-size: 22px;
+     font-size: 26px;
  }
  h4{
-     font-size: 20px;
-     color:rgb(146, 146, 146);
+     font-size: 24px;
+     color:rgb(122, 121, 121);
+     padding-bottom: 20px;
+     
      
  }
 
