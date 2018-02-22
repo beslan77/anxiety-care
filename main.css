@@ -12,7 +12,8 @@ a {
 a.navbar-brand {
     color: #000000;
     font-style: bold;
-    font-size: 25px;
+    font-size: 30px;
+    
 }
 
 a:hover {
